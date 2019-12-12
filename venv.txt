@@ -1,0 +1,8 @@
+# Criar um novo environment
+python -m venv venv (nome da venv)
+
+# Ativar o virtual env
+source venv/bin/activate
+
+# Desativar o venv
+deactivate

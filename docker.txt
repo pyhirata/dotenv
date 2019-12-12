@@ -1,0 +1,54 @@
+https://runnable.com/docker/python/dockerize-your-python-application
+https://hub.docker.com/_/python
+https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes
+
+Criar imagem:
+docker build -t dwetl .
+
+Rodar programa:
+docker run --name dwetlcont -d dwetl
+
+Entrar no container e executar comandos:
+docker exec -i -t dwetlcont /bin/bash
+
+Verificar imagens criadas:
+docker images
+
+Limpar imagens danificadas:
+docker system prune
+
+Remover imagem específica:
+docker rmi <nome imagem>
+
+Listar todos containers:
+docker ps -a
+
+Remover container específico:
+docker rm ID_or_Name
+
+Para a execução do container
+docker stop dwetlcont
+
+Para a execução e remove os arquivos do container
+docker rm dwetlcont -f
+
+
+# Criar etl DEV (alterar arquivo .env)
+docker build -t dwetldev .
+docker run --name dwetlcontdev -d dwetldev
+docker exec -i -t dwetlcontdev /bin/bash
+docker rm dwetlcontdev -f
+
+# Criar etl PROD (alterar arquivo .env)
+docker build -t dwetlprod .
+docker run --name dwetlcontprod -d dwetlprod
+docker exec -i -t dwetlcontprod /bin/bash
+docker exec -i -t dwetlcontprod python /etc/python/DWETL.py
+docker exec -i -t dwetlcontprod python /etc/python/mailcache.py
+docker rm dwetlcontprod -f
+
+# Criar rotina disparar email Onboarding
+docker build -t mailcache .
+docker run --name cachecont -d mailcache
+docker exec -i -t cachecont /bin/bash
+docker rm cachecont -f

@@ -1,0 +1,12 @@
+Instalar editor de texto no container
+apt-get update
+apt-get install vim
+
+Edita o conteúdo do cron para o usuário atual
+crontab -e
+
+Lista todos os jobs no arquivo atual
+crontab -l
+
+Remove a configuração do cron atual
+crontab -r

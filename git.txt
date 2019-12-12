@@ -1,0 +1,80 @@
+-- verifica os arquivos alterados
+git status
+
+-- verifica a branch que estou trabalhando
+git branch
+
+-- sobe todos os arquivos para staging area (ou coloque o nome do arquivo específico)
+git add .
+
+-- disponibiliza para upload com uma frase
+git commit -m 'Initial release'
+
+-- um comando só para add e commit
+git commit -a -m 'Texto do que mudou'
+
+-- adiciona uma alteração ao último commit sobrepõe
+git commit -amend -m 'Texto do que mudou (edição)'
+
+-- cria uma nova branch
+git branch etl-newstructure
+
+-- loga na branch
+git checkout master
+
+-- criar uma nova branch e loga nela ao mesmo tempo
+git checkout -b etl-newstructure master
+
+-- deleta o ambiente de teste
+git branch -d etl-newstructure
+
+-- descarta as alterações feitas no arquivo
+git checkout -- nomearquivo.txt
+
+-- verifica o nome do servidor
+git remote
+
+-- pega os commits e joga para o servidor
+git push origin etl-newstructure
+
+-- mescla as alterações de diferentes branches (sempre deve estar logado no destino)
+git merge develop
+
+-- verifica o que foi alterado nos arquivos (--staged)
+git diff
+
+-- histórico dos commits (-p -1 --pretty=oneline)
+git log
+
+-- retira o arquivo da área de stage
+git reset HEAD nomedoarquivo.txt
+
+-- remove o arquivo do repositório
+git rm arquivo.txt
+
+-- baixa os arquivos do servidor para sua máquina e faz o merge
+git pull origin master
+
+-- baixa os arquivos do server para uma nova branch na máquina (sem merge)
+git fetch origin develop
+
+
+
+
+
+
+-- Passo a passo para fazer o processo do novo dashboard
+*Copiar os arquivos para a pasta sharecarebr-python-etl-consume
+git branch
+git checkout -b etldevelop develop
+git status
+git add .
+git commit -m 'Atualizado .gitignore and readme.md'
+git push origin etldevelop
+*https://bitbucket.org/sharecarebrteam/sharecarebr-python-etl-consume/pull-requests/
+ >>> Create pull request
+ >>> From [ticketJira] To develop (close branch after merge)
+ >>> Aprove -> Merge
+
+Verificar build no jenkins:
+http://jenkins-sc-platform.scp-br.com:8080/job/prd-dashboard-python-etl-consume/
