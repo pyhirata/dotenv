@@ -1,0 +1,41 @@
+<keymap version="1" name="Jean" parent="$default">
+  <action id="ChangesView.Diff" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditSource" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="ExecuteInPyConsoleAction">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="RecentFiles" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Vcs.EditSource" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="XDebugger.JumpToSource" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
