@@ -62,7 +62,6 @@ git fetch origin develop
 
 
 
-
 -- Passo a passo para fazer o processo do novo dashboard
 *Copiar os arquivos para a pasta sharecarebr-python-etl-consume
 git branch
@@ -71,10 +70,6 @@ git status
 git add .
 git commit -m 'Atualizado .gitignore and readme.md'
 git push origin etldevelop
-*https://bitbucket.org/sharecarebrteam/sharecarebr-python-etl-consume/pull-requests/
  >>> Create pull request
  >>> From [ticketJira] To develop (close branch after merge)
  >>> Aprove -> Merge
-
-Verificar build no jenkins:
-http://jenkins-sc-platform.scp-br.com:8080/job/prd-dashboard-python-etl-consume/
