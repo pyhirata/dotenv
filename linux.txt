@@ -1,45 +1,49 @@
+# Instalação do Ambiente
+Instalar VirtualBox 6.1 para Windows (https://www.virtualbox.org/wiki/Downloads)
+Baixar iso do Ubuntu Desktop 18.04 (https://ubuntu.com/download/desktop/thank-you?country=BR&version=18.04.3&architecture=amd64)
+
 '''
 user: ubuntu
 pass: sirio
 host: hslubuntu
 '''
 
-# refresh repositories
+## refresh repositories
 sudo apt update
 
-# Installing Guest additions from the repositories
-sudo apt install virtualbox-guest-additions-iso
+## Installing Guest additions from the repositories
+sudo apt install virtualbox-guest-additions-iso gnome-tweak-tool
 
-# Some software development tools
-sudo apt install gnome-tweak-tool git software-properties-common build-essential curl default-jdk libssl-dev silversearcher-ag fontconfig apt-transport-https ca-certificates gnupg-agent python3-pip -y
+## Some software development tools
+sudo apt install git software-properties-common build-essential curl default-jdk libssl-dev silversearcher-ag vim-gtk3 fontconfig apt-transport-https ca-certificates gnupg-agent python3-pip python3-dev libaio1 -y
 
-# Python alias
+## Python alias
 echo "alias python=python3" >> ~/.bashrc
 echo "alias pip=pip3" >> ~/.bashrc
 
-# GIT
+## GIT
 git config --global user.name "Jean Hirata"
 git config --global user.email jean_pones@hotmail.com
 mkdir ~/projects
 cd ~/projects
 git clone https://github.com/pyhirata/dotenv.git
 
-# Sublime
+## Sublime
 wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
 echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
 sudo apt update
 sudo apt install sublime-text
 
-# DBeaver
+## DBeaver
 wget -c https://dbeaver.io/files/dbeaver-ce_latest_amd64.deb
 sudo dpkg -i dbeaver-ce_latest_amd64.deb
 sudo apt install -f
 rm dbeaver-ce_latest_amd64.deb
 
-# PyCharm
+## PyCharm
 sudo snap install pycharm-community --classic
 
-# Docker
+## Docker
 sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
 sudo apt update
@@ -47,8 +51,31 @@ sudo apt install docker-ce docker-ce-cli containerd.io -y
 sudo curl -L "https://github.com/docker/compose/releases/download/1.25.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 sudo chmod +x /usr/local/bin/docker-compose
 
-# Airflow
+## Airflow
 git clone https://hsl-dev@dev.azure.com/hsl-dev/Dados%20Gerenciais/_git/hslairflow
 cd ~/projects/hslairflow
 sudo docker-compose up -d
 firefox localhost:8080
+
+## Oracle
+https://stackoverflow.com/questions/4307479/install-cx-oracle-for-python
+
+## Postgres
+sudo apt install libpq-dev
+pip install psycopg2
+
+
+export ORACLE_HOME=/usr/local/airflow/oracle/instantclient_19_5
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$ORACLE_HOME
+
+
+
+
+
+
+"""server EC2"""
+## refresh repositories
+sudo apt update
+
+## Some software development tools
+sudo apt install git software-properties-common build-essential curl default-jdk libssl-dev silversearcher-ag vim-gtk3 fontconfig apt-transport-https ca-certificates gnupg-agent python3-pip python3-dev libaio1 -y
