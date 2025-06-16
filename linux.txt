@@ -1,18 +1,5 @@
-# Instalação do Ambiente
-Instalar VirtualBox 6.1 para Windows (https://www.virtualbox.org/wiki/Downloads)
-Baixar iso do Ubuntu Desktop 18.04 (https://ubuntu.com/download/desktop/thank-you?country=BR&version=18.04.3&architecture=amd64)
-
-'''
-user: ubuntu
-pass: sirio
-host: hslubuntu
-'''
-
 ## refresh repositories
 sudo apt update
-
-## Installing Guest additions from the repositories
-sudo apt install virtualbox-guest-additions-iso gnome-tweak-tool
 
 ## Some software development tools
 sudo apt install git software-properties-common build-essential curl default-jdk libssl-dev silversearcher-ag vim-gtk3 fontconfig apt-transport-https ca-certificates gnupg-agent python3-pip python3-dev libaio1 -y
@@ -20,6 +7,7 @@ sudo apt install git software-properties-common build-essential curl default-jdk
 ## Python alias
 echo "alias python=python3" >> ~/.bashrc
 echo "alias pip=pip3" >> ~/.bashrc
+echo "alias cc=find . -type f -print0 | xargs -0 mv -t ." >> ~/.bashrc
 
 ## GIT
 git config --global user.name "Jean Hirata"
