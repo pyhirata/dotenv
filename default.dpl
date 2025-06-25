@@ -1,7 +1,6 @@
 ﻿DAUMPLAYLIST
-playname=https://www.youtube.com/watch?v=3vcspZjVNJo
-playtime=1293440
-topindex=0
+playname=https://www.youtube.com/watch?v=Pu52T9t4pgg
+topindex=38
 saveplaypos=0
 1*file*https://www.youtube.com/watch?v=tp7mc6EXmqs
 1*title*Building Real-Time Streaming ETL with Delta Live Tables on Databricks (End to End Project)
@@ -238,136 +237,99 @@ saveplaypos=0
 39*author*Vila do Chaves
 39*thumbnail*https://i.ytimg.com/vi_webp/K_t1L8QETRw/default.webp
 39*date*2025-06-20
-40*file*https://www.youtube.com/watch?v=q42Yb9fdzNk
-40*title*Biscoito de Okara e Gergeliim Preto
-40*duration2*285000
-40*author*Marisa Ono
-40*thumbnail*https://i.ytimg.com/vi/q42Yb9fdzNk/default.jpg
-40*date*2025-06-20
-41*file*https://www.youtube.com/watch?v=Pu52T9t4pgg
-41*title*Japanese Reishabu Salad | Chilled Pork Salad for the Summer – Light, Healthy, and Delicious!
-41*duration2*319000
-41*author*Kitchen Princess Bamboo / Japanese Everyday Food
-41*thumbnail*https://i.ytimg.com/vi_webp/Pu52T9t4pgg/default.webp
+40*file*https://www.youtube.com/watch?v=ntr0BncyCPA
+40*title*TODAS AS MENTIRAS SOBRE X-MEN!
+40*duration2*1499000
+40*author*Linhagem Geek
+40*thumbnail*https://i.ytimg.com/vi/ntr0BncyCPA/default.jpg
+40*date*2025-06-21
+41*file*https://www.youtube.com/watch?v=PbYz38zSX2M
+41*title*CONHEÇA A ESTRATÉGIA SUJA DE LACRAR NOS FILHOS DOS SUPER-HERÓIS.
+41*duration2*1567000
+41*author*Linhagem Geek
+41*thumbnail*https://i.ytimg.com/vi/PbYz38zSX2M/default.jpg
 41*date*2025-06-21
-42*file*https://www.youtube.com/watch?v=ntr0BncyCPA
-42*title*TODAS AS MENTIRAS SOBRE X-MEN!
-42*duration2*1499000
-42*author*Linhagem Geek
-42*thumbnail*https://i.ytimg.com/vi/ntr0BncyCPA/default.jpg
-42*date*2025-06-21
-43*file*https://www.youtube.com/watch?v=PbYz38zSX2M
-43*title*CONHEÇA A ESTRATÉGIA SUJA DE LACRAR NOS FILHOS DOS SUPER-HERÓIS.
-43*duration2*1567000
-43*author*Linhagem Geek
-43*thumbnail*https://i.ytimg.com/vi/PbYz38zSX2M/default.jpg
-43*date*2025-06-21
-44*file*https://www.youtube.com/watch?v=TjoZXGBLtgg
-44*title*Yakimeshi de Camarão – O Arroz Frito Japonês que Vai Te Surpreender!
-44*duration2*247000
-44*author*Receitas do Kazu
-44*thumbnail*https://i.ytimg.com/vi_webp/TjoZXGBLtgg/default.webp
-44*date*2025-06-21
-45*file*https://www.youtube.com/watch?v=SlxdhNA5x2w
-45*title*COXA E SOBRE DESOSSADA, COM RECHEIO E COBERTURA DE BACON
-45*duration2*1198000
-45*author*Marcelo Bolinha Carnes
-45*thumbnail*https://i.ytimg.com/vi_webp/SlxdhNA5x2w/default.webp?v=68573b0b
-45*date*2025-06-21
-46*file*https://www.youtube.com/watch?v=fiI0kXvvkZA
-46*title*Exumando o filme Extermínio - A Evolução
-46*duration2*884000
-46*author*Jurandir Gouveia
-46*thumbnail*https://i.ytimg.com/vi_webp/fiI0kXvvkZA/default.webp
-46*date*2025-06-22
-47*file*https://www.youtube.com/watch?v=4OA8KkVxI2E
-47*title*Criação do CHAPOLIN e CIÚMES: análise do 3º episódio de CHESPIRITO (com spoiler)!
-47*duration2*2081000
-47*author*Vila do Chaves
-47*thumbnail*https://i.ytimg.com/vi/4OA8KkVxI2E/default.jpg
-47*date*2025-06-22
-48*file*https://www.youtube.com/watch?v=vrQKC6xHO0k
-48*title*Sobremesa Japonesa com Laranja: Leve, Refrescante e Vegana 🍊
-48*duration2*185000
-48*author*Receitas do Kazu
-48*thumbnail*https://i.ytimg.com/vi/vrQKC6xHO0k/default.jpg
-48*date*2025-06-22
-49*file*https://www.youtube.com/watch?v=ATfDsdlze3E&t=236s
-49*title*Covariance Explained ← Probability & Statistics
-49*duration2*663000
-49*author*Socratica
-49*thumbnail*https://i.ytimg.com/vi_webp/ATfDsdlze3E/default.webp
-49*date*2025-06-23
-50*file*https://www.youtube.com/watch?v=uUHZzqPKz1I
-50*title*Receita de ESFIHA MELHOR QUE DO HABIB'S! Massa Fofinha e Saborosa | Chef Gi Souza
-50*duration2*706000
-50*author*Receitas de Minuto por Chef Gi Souza
-50*thumbnail*https://i.ytimg.com/vi_webp/uUHZzqPKz1I/default.webp
-50*date*2025-06-23
-51*file*https://www.youtube.com/watch?v=Y1OMWpNPOZw
-51*title*O QUE NUNCA TE CONTARAM SOBRE FOBIA SOCIAL
-51*duration2*899000
-51*author*Olá, Ciência!
-51*thumbnail*https://i.ytimg.com/vi_webp/Y1OMWpNPOZw/default.webp
-51*date*2025-06-23
-52*file*https://www.youtube.com/watch?v=BmEBRpio2bc
-52*title*POR QUE mudaram as músicas CLÁSSICAS do Chaves? Ficou BOM ou NÃO?
-52*duration2*931000
-52*author*Vila do Chaves
-52*thumbnail*https://i.ytimg.com/vi_webp/BmEBRpio2bc/default.webp
-52*date*2025-06-23
-53*file*https://www.youtube.com/watch?v=-zAAZanV0rM
-53*title*VOCÊS SÃO LOUCOS DE CONSTRUIR PARA VENDER COM FINANCIAMENTO (eu não)
-53*duration2*653000
-53*author*Engenheiros Do Zero | Rafael Wainer
-53*thumbnail*https://i.ytimg.com/vi/-zAAZanV0rM/default.jpg
+42*file*https://www.youtube.com/watch?v=fiI0kXvvkZA
+42*title*Exumando o filme Extermínio - A Evolução
+42*duration2*884000
+42*author*Jurandir Gouveia
+42*thumbnail*https://i.ytimg.com/vi_webp/fiI0kXvvkZA/default.webp
+42*date*2025-06-22
+43*file*https://www.youtube.com/watch?v=4OA8KkVxI2E
+43*title*Criação do CHAPOLIN e CIÚMES: análise do 3º episódio de CHESPIRITO (com spoiler)!
+43*duration2*2081000
+43*author*Vila do Chaves
+43*thumbnail*https://i.ytimg.com/vi/4OA8KkVxI2E/default.jpg
+43*date*2025-06-22
+44*file*https://www.youtube.com/watch?v=ATfDsdlze3E&t=236s
+44*title*Covariance Explained ← Probability & Statistics
+44*duration2*663000
+44*author*Socratica
+44*thumbnail*https://i.ytimg.com/vi_webp/ATfDsdlze3E/default.webp
+44*date*2025-06-23
+45*file*https://www.youtube.com/watch?v=Y1OMWpNPOZw
+45*title*O QUE NUNCA TE CONTARAM SOBRE FOBIA SOCIAL
+45*duration2*899000
+45*author*Olá, Ciência!
+45*thumbnail*https://i.ytimg.com/vi_webp/Y1OMWpNPOZw/default.webp
+45*date*2025-06-23
+46*file*https://www.youtube.com/watch?v=BmEBRpio2bc
+46*title*POR QUE mudaram as músicas CLÁSSICAS do Chaves? Ficou BOM ou NÃO?
+46*duration2*931000
+46*author*Vila do Chaves
+46*thumbnail*https://i.ytimg.com/vi_webp/BmEBRpio2bc/default.webp
+46*date*2025-06-23
+47*file*https://www.youtube.com/watch?v=-zAAZanV0rM
+47*title*VOCÊS SÃO LOUCOS DE CONSTRUIR PARA VENDER COM FINANCIAMENTO (eu não)
+47*duration2*653000
+47*author*Engenheiros Do Zero | Rafael Wainer
+47*thumbnail*https://i.ytimg.com/vi/-zAAZanV0rM/default.jpg
+47*date*2025-06-24
+48*file*https://www.youtube.com/watch?v=Yi2Xl1fUYXM
+48*title*O MÁSKARA 2 VEM AÍ!
+48*duration2*900000
+48*author*Linhagem Geek
+48*thumbnail*https://i.ytimg.com/vi_webp/Yi2Xl1fUYXM/default.webp
+48*date*2025-06-24
+49*file*https://www.youtube.com/watch?v=zAAJevQlrwk
+49*title*Hawaiian Macaroni Salad | Food Wishes
+49*duration2*481000
+49*author*Food Wishes
+49*thumbnail*https://i.ytimg.com/vi_webp/zAAJevQlrwk/default.webp
+49*date*2025-06-24
+50*file*https://www.youtube.com/watch?v=-_FXDCeiL3g
+50*title*Dá ruim ficar ACENDENDO e APAGANDO a LUZ? Nós testamos!
+50*duration2*995000
+50*author*Manual do Mundo
+50*thumbnail*https://i.ytimg.com/vi/-_FXDCeiL3g/default.jpg
+50*date*2025-06-24
+51*file*https://www.youtube.com/watch?v=IUCGrUQNAig
+51*title*parece que não entenderam a mensagem de Django Livre
+51*duration2*1139000
+51*author*Jurandir Gouveia
+51*thumbnail*https://i.ytimg.com/vi/IUCGrUQNAig/default.jpg
+51*date*2025-06-24
+52*file*https://www.youtube.com/watch?v=NO5KC3cLhWo&t=44s
+52*title*PODE DAR MUITO ERRADO! JUSTICEIRO EM HOMEM-ARANHA SERÁ NERFADO?
+52*duration2*895000
+52*author*Linhagem Geek
+52*thumbnail*https://i.ytimg.com/vi/NO5KC3cLhWo/default.jpg
+52*date*2025-06-24
+53*file*https://www.youtube.com/watch?v=bsfCCvszSqc
+53*title*Mais uma chance para o CachyOS impressionar
+53*duration2*1225000
+53*author*Diolinux
+53*thumbnail*https://i.ytimg.com/vi/bsfCCvszSqc/default.jpg
 53*date*2025-06-24
-54*file*https://www.youtube.com/watch?v=Yi2Xl1fUYXM
-54*title*O MÁSKARA 2 VEM AÍ!
-54*duration2*900000
-54*author*Linhagem Geek
-54*thumbnail*https://i.ytimg.com/vi_webp/Yi2Xl1fUYXM/default.webp
-54*date*2025-06-24
-55*file*https://www.youtube.com/watch?v=zAAJevQlrwk
-55*title*Hawaiian Macaroni Salad | Food Wishes
-55*duration2*481000
-55*author*Food Wishes
-55*thumbnail*https://i.ytimg.com/vi_webp/zAAJevQlrwk/default.webp
-55*date*2025-06-24
-56*file*https://www.youtube.com/watch?v=-_FXDCeiL3g
-56*title*Dá ruim ficar ACENDENDO e APAGANDO a LUZ? Nós testamos!
-56*duration2*995000
-56*author*Manual do Mundo
-56*thumbnail*https://i.ytimg.com/vi/-_FXDCeiL3g/default.jpg
-56*date*2025-06-24
-57*file*https://www.youtube.com/watch?v=IUCGrUQNAig
-57*title*parece que não entenderam a mensagem de Django Livre
-57*duration2*1139000
-57*author*Jurandir Gouveia
-57*thumbnail*https://i.ytimg.com/vi/IUCGrUQNAig/default.jpg
-57*date*2025-06-24
-58*file*https://www.youtube.com/watch?v=KuapIglCMfg&pp=0gcJCc4JAYcqIYzv
-58*title*Essa Caixa de Som Entrega MUITO e Custa POUCO! Imenso X29 (MENOS DE R$350)
-58*duration2*592000
-58*author*Inova Leo
-58*thumbnail*https://i.ytimg.com/vi_webp/KuapIglCMfg/default.webp
-58*date*2025-06-24
-59*file*https://www.youtube.com/watch?v=NO5KC3cLhWo&t=44s
-59*title*PODE DAR MUITO ERRADO! JUSTICEIRO EM HOMEM-ARANHA SERÁ NERFADO?
-59*duration2*895000
-59*author*Linhagem Geek
-59*thumbnail*https://i.ytimg.com/vi/NO5KC3cLhWo/default.jpg
-59*date*2025-06-24
-60*file*https://www.youtube.com/watch?v=bsfCCvszSqc
-60*title*Mais uma chance para o CachyOS impressionar
-60*duration2*1225000
-60*author*Diolinux
-60*thumbnail*https://i.ytimg.com/vi/bsfCCvszSqc/default.jpg
-60*date*2025-06-24
-61*file*https://www.youtube.com/watch?v=3vcspZjVNJo
-61*title*Atores que RECUSARAM papéis ICÔNICOS | Gaveta
-61*duration2*2061793
-61*author*Gaveta
-61*thumbnail*https://i.ytimg.com/vi_webp/3vcspZjVNJo/default.webp
-61*start*1293440
-61*date*2025-06-24
+54*file*https://www.youtube.com/watch?v=e7XXHpfC8_Y
+54*title*Nick DiGiovanni LOSE Uncle Title (Fried Rice Review)
+54*duration2*716000
+54*author*mrnigelng
+54*thumbnail*https://i.ytimg.com/vi/e7XXHpfC8_Y/default.jpg
+54*date*2025-06-25
+55*file*https://www.youtube.com/watch?v=T8CK9aIqy20
+55*title*How I would learn to cook (if I could start over)
+55*duration2*1043000
+55*author*Ethan Chlebowski
+55*thumbnail*https://i.ytimg.com/vi/T8CK9aIqy20/default.jpg
+55*date*2025-06-25
