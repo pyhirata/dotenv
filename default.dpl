@@ -1,294 +1,179 @@
 ﻿DAUMPLAYLIST
-playname=https://www.youtube.com/watch?v=-Qm2Kg2nMPs
-topindex=35
+playname=https://www.youtube.com/watch?v=HLh-jSyrt34
+topindex=5
 saveplaypos=0
-1*file*https://www.youtube.com/watch?v=tp7mc6EXmqs
-1*title*Building Real-Time Streaming ETL with Delta Live Tables on Databricks (End to End Project)
-1*duration2*2853152
-1*author*Pathfinder Analytics
-1*thumbnail*https://i.ytimg.com/vi/tp7mc6EXmqs/default.jpg
-1*start*1541204
-1*date*2025-06-02
-2*file*https://www.youtube.com/watch?v=HeQX2HjkcNo
-2*title*Math's Fundamental Flaw
-2*duration2*2040000
-2*author*Veritasium
-2*thumbnail*https://i.ytimg.com/vi/HeQX2HjkcNo/default.jpg
-2*date*2021-05-22
-3*file*https://www.youtube.com/watch?v=e5dVSygXbAE
-3*title*The First Neural Networks
-3*duration2*1132000
-3*author*Asianometry
-3*thumbnail*https://i.ytimg.com/vi/e5dVSygXbAE/default.jpg
-3*date*2024-06-13
-4*file*https://www.youtube.com/watch?v=RQWpF2Gb-gU
-4*title*But what is quantum computing?  (Grover's Algorithm)
-4*duration2*2214000
-4*author*3Blue1Brown
-4*thumbnail*https://i.ytimg.com/vi/RQWpF2Gb-gU/default.jpg
-4*date*2025-04-30
-5*file*https://www.youtube.com/watch?v=WgTaEot1vcA&list=PLX6vxVBtKLZ2zOOhuKX54la11wldpeeDu
-5*title*Make Ultimate Juicy Hamburg Steak (Hambagu) ! It's Like a Bomb of Meat Juices!
-5*duration2*480781
-5*author*Japanese Cooking Ichie
-5*thumbnail*https://i.ytimg.com/vi_webp/WgTaEot1vcA/default.webp?v=68354cc5
-5*date*2025-05-23
-6*file*https://www.youtube.com/watch?v=dvBWuil9WH8
-6*title*Resumo de Pokemon - A História Mitológica até os Tempos Atuais
-6*duration2*3938000
-6*author*Anime no kokoro
-6*thumbnail*https://i.ytimg.com/vi/dvBWuil9WH8/hqdefault.jpg
-6*date*2025-05-18
-7*file*https://www.youtube.com/watch?v=uxbJRtPi8J4&pp=wgIGCgQQAhgB
-7*title*Missão Impossível 8 vale a pena o ingresso? (SEM SPOILER)
-7*duration2*920000
-7*author*Jurandir Gouveia
-7*thumbnail*https://i.ytimg.com/vi_webp/uxbJRtPi8J4/default.webp
-7*date*2025-05-21
-8*file*https://www.youtube.com/watch?v=biGiUNCmDR0&pp=wgIGCgQQAhgB
-8*title*Thunderbolts* é bom ou a gente só tava carente? | Gaveta
-8*duration2*881000
-8*author*Gaveta
-8*thumbnail*https://i.ytimg.com/vi_webp/biGiUNCmDR0/default.webp
-8*date*2025-05-06
-9*file*https://www.youtube.com/watch?v=-KcVtWseh3U
-9*title*BATALHA DOS PETISCOS: QUAL TIME LEVA A MELHOR? | Desafio do Mohamad: Batalha RAP10
-9*duration2*1077000
-9*author*Mohamad Hindi
-9*thumbnail*https://i.ytimg.com/vi_webp/-KcVtWseh3U/default.webp?v=6841f5aa
-9*date*2025-06-05
-10*file*https://www.youtube.com/watch?v=5FP7P_JShWk
-10*title*ELIMINAÇÃO À VISTA! QUEM SAI NA PROVA DOS SANDUÍCHES? | Desafio do Mohamad: Batalha RAP 10
-10*duration2*1147000
-10*author*Mohamad Hindi
-10*thumbnail*https://i.ytimg.com/vi_webp/5FP7P_JShWk/default.webp?v=684993ff
-10*date*2025-06-12
-11*file*https://www.youtube.com/watch?v=u_RLvWYhsPQ
-11*title*EP.04 | QUEM ENTREGA O MELHOR CAFÉ DA MANHÃ EM 25 MINUTOS? | Desafio do Mohamad: Batalha RAP10
-11*duration2*1118000
-11*author*Mohamad Hindi
-11*thumbnail*https://i.ytimg.com/vi_webp/u_RLvWYhsPQ/default.webp
-11*date*2025-06-19
-12*file*https://www.youtube.com/watch?v=FnuKA3ZVFFg
-12*title*OZEMPIC ou MOUNJARO: qual emagrece mais?
-12*duration2*579000
-12*author*Olá, Ciência!
-12*thumbnail*https://i.ytimg.com/vi_webp/FnuKA3ZVFFg/default.webp
-12*date*2025-06-05
-13*file*https://www.youtube.com/watch?v=S-YUITqWteQ
-13*title*OS ERROS GRAVES na COZINHA que CONTAMINAM a sua COMIDA
-13*duration2*735000
-13*author*Olá, Ciência!
-13*thumbnail*https://i.ytimg.com/vi_webp/S-YUITqWteQ/default.webp
-13*date*2025-06-09
-14*file*https://www.youtube.com/watch?v=srtw0Kt5UEY
-14*title*O que o AÇÚCAR REALMENTE faz no seu corpo
-14*duration2*653000
-14*author*Olá, Ciência!
-14*thumbnail*https://i.ytimg.com/vi/srtw0Kt5UEY/default.jpg
-14*date*2025-06-19
-15*file*https://www.youtube.com/watch?v=1eeb65CSe-8
-15*title*Mesmo Andor sendo EXCELENTE, por que o fã de Star Wars não vê? | Gaveta
-15*duration2*1444000
-15*author*Gaveta
-15*thumbnail*https://i.ytimg.com/vi_webp/1eeb65CSe-8/default.webp
-15*date*2025-06-06
-16*file*https://www.youtube.com/watch?v=ln-a8Op1WIU&pp=0gcJCd4JAYcqIYzv
-16*title*TUDO de ERRADO com CAPITÃO AMÉRICA: ADMIRÁVEL MUNDO NOVO
-16*duration2*1213000
-16*author*Primeira Fila
-16*thumbnail*https://i.ytimg.com/vi_webp/ln-a8Op1WIU/default.webp
-16*date*2025-06-09
-17*file*https://www.youtube.com/watch?v=Zm5kYN68D9o
-17*title*SOMOS A FAVOR! PANTERA NEGRA É OFICIALMENTE BRANCO!
-17*duration2*1070000
-17*author*Linhagem Geek
-17*thumbnail*https://i.ytimg.com/vi/Zm5kYN68D9o/default.jpg
-17*date*2025-06-06
-18*file*https://www.youtube.com/watch?v=jNNaceiERAM
-18*title*KEANU REEVES ODIOU CONSTANTINE 2
-18*duration2*696000
-18*author*Linhagem Geek
-18*thumbnail*https://i.ytimg.com/vi/jNNaceiERAM/default.jpg
-18*date*2025-06-07
-19*file*https://www.youtube.com/watch?v=LIWv_ayr2n8
-19*title*NEFARIOUS 2 É CONFIRMADO!
-19*duration2*681000
-19*author*Linhagem Geek
-19*thumbnail*https://i.ytimg.com/vi_webp/LIWv_ayr2n8/default.webp
-19*date*2025-06-07
-20*file*https://www.youtube.com/watch?v=5gmt7qfDo7k
-20*title*A ARROGÂNCIA DO LACRADOR! SUE STORM SEMPRE FOI A LÍDER DO QUARTETO FANTÁSTICO.
-20*duration2*1404000
-20*author*Linhagem Geek
-20*thumbnail*https://i.ytimg.com/vi/5gmt7qfDo7k/default.jpg
-20*date*2025-06-09
-21*file*https://www.youtube.com/watch?v=Uu_2FgZALQ0
-21*title*A POLÊMICA DO PANTERA NEGRA BRANCO!
-21*duration2*1424000
-21*author*Linhagem Geek
-21*thumbnail*https://i.ytimg.com/vi_webp/Uu_2FgZALQ0/default.webp
-21*date*2025-06-10
-22*file*https://www.youtube.com/watch?v=JOqOVggIFr0
-22*title*REFUTE! REED RICHARDS SEMPRE FOI O LÍDER E SUE LÍDER É LACRAÇÃO!
-22*duration2*1395000
-22*author*Linhagem Geek
-22*thumbnail*https://i.ytimg.com/vi_webp/JOqOVggIFr0/default.webp
-22*date*2025-06-10
-23*file*https://www.youtube.com/watch?v=1cKy4-Mqsec
-23*title*PEDRO PASCAL SOJADO FAZ DECLARAÇÃO LACRATE
-23*duration2*1157000
-23*author*Linhagem Geek
-23*thumbnail*https://i.ytimg.com/vi_webp/1cKy4-Mqsec/default.webp
-23*date*2025-06-12
-24*file*https://www.youtube.com/watch?v=CoCPODKRxVU
-24*title*CANDIDATAS A MULHER MARAVILHA!
-24*duration2*1160000
-24*author*Linhagem Geek
-24*thumbnail*https://i.ytimg.com/vi/CoCPODKRxVU/default.jpg
-24*date*2025-06-15
-25*file*https://www.youtube.com/watch?v=hBHNSwvkOWY
-25*title*DIRETOR DE THE BOYS ASSUME QUE FEZ A SÉRIE PARA ATACAR TRUMP
-25*duration2*975000
-25*author*Linhagem Geek
-25*thumbnail*https://i.ytimg.com/vi_webp/hBHNSwvkOWY/default.webp
+1*file*https://www.youtube.com/watch?v=ln-a8Op1WIU&pp=0gcJCd4JAYcqIYzv
+1*title*TUDO de ERRADO com CAPITÃO AMÉRICA: ADMIRÁVEL MUNDO NOVO
+1*duration2*1213000
+1*author*Primeira Fila
+1*thumbnail*https://i.ytimg.com/vi_webp/ln-a8Op1WIU/default.webp
+1*date*2025-06-09
+2*file*https://www.youtube.com/watch?v=Zm5kYN68D9o
+2*title*SOMOS A FAVOR! PANTERA NEGRA É OFICIALMENTE BRANCO!
+2*duration2*1070000
+2*author*Linhagem Geek
+2*thumbnail*https://i.ytimg.com/vi/Zm5kYN68D9o/default.jpg
+2*date*2025-06-06
+3*file*https://www.youtube.com/watch?v=jNNaceiERAM
+3*title*KEANU REEVES ODIOU CONSTANTINE 2
+3*duration2*696000
+3*author*Linhagem Geek
+3*thumbnail*https://i.ytimg.com/vi/jNNaceiERAM/default.jpg
+3*date*2025-06-07
+4*file*https://www.youtube.com/watch?v=LIWv_ayr2n8
+4*title*NEFARIOUS 2 É CONFIRMADO!
+4*duration2*681000
+4*author*Linhagem Geek
+4*thumbnail*https://i.ytimg.com/vi_webp/LIWv_ayr2n8/default.webp
+4*date*2025-06-07
+5*file*https://www.youtube.com/watch?v=5gmt7qfDo7k
+5*title*A ARROGÂNCIA DO LACRADOR! SUE STORM SEMPRE FOI A LÍDER DO QUARTETO FANTÁSTICO.
+5*duration2*1404000
+5*author*Linhagem Geek
+5*thumbnail*https://i.ytimg.com/vi/5gmt7qfDo7k/default.jpg
+5*date*2025-06-09
+6*file*https://www.youtube.com/watch?v=Uu_2FgZALQ0
+6*title*A POLÊMICA DO PANTERA NEGRA BRANCO!
+6*duration2*1424000
+6*author*Linhagem Geek
+6*thumbnail*https://i.ytimg.com/vi_webp/Uu_2FgZALQ0/default.webp
+6*date*2025-06-10
+7*file*https://www.youtube.com/watch?v=JOqOVggIFr0
+7*title*REFUTE! REED RICHARDS SEMPRE FOI O LÍDER E SUE LÍDER É LACRAÇÃO!
+7*duration2*1395000
+7*author*Linhagem Geek
+7*thumbnail*https://i.ytimg.com/vi_webp/JOqOVggIFr0/default.webp
+7*date*2025-06-10
+8*file*https://www.youtube.com/watch?v=1cKy4-Mqsec
+8*title*PEDRO PASCAL SOJADO FAZ DECLARAÇÃO LACRATE
+8*duration2*1157000
+8*author*Linhagem Geek
+8*thumbnail*https://i.ytimg.com/vi_webp/1cKy4-Mqsec/default.webp
+8*date*2025-06-12
+9*file*https://www.youtube.com/watch?v=CoCPODKRxVU
+9*title*CANDIDATAS A MULHER MARAVILHA!
+9*duration2*1160000
+9*author*Linhagem Geek
+9*thumbnail*https://i.ytimg.com/vi/CoCPODKRxVU/default.jpg
+9*date*2025-06-15
+10*file*https://www.youtube.com/watch?v=hBHNSwvkOWY
+10*title*DIRETOR DE THE BOYS ASSUME QUE FEZ A SÉRIE PARA ATACAR TRUMP
+10*duration2*975000
+10*author*Linhagem Geek
+10*thumbnail*https://i.ytimg.com/vi_webp/hBHNSwvkOWY/default.webp
+10*date*2025-06-16
+11*file*https://www.youtube.com/watch?v=FRh6eX4NZWY
+11*title*BOICOTE AO SUPERMAN ESTA ACONTECENDO!
+11*duration2*1485000
+11*author*Linhagem Geek
+11*thumbnail*https://i.ytimg.com/vi_webp/FRh6eX4NZWY/default.webp
+11*date*2025-06-17
+12*file*https://www.youtube.com/watch?v=2bVhALiA3_g
+12*title*O FLOP PREVISÍVEL DE BALLERINA! ENTENDA.
+12*duration2*892000
+12*author*Linhagem Geek
+12*thumbnail*https://i.ytimg.com/vi/2bVhALiA3_g/default.jpg
+12*date*2025-06-18
+13*file*https://www.youtube.com/watch?v=ntr0BncyCPA
+13*title*TODAS AS MENTIRAS SOBRE X-MEN!
+13*duration2*1499000
+13*author*Linhagem Geek
+13*thumbnail*https://i.ytimg.com/vi/ntr0BncyCPA/default.jpg
+13*date*2025-06-21
+14*file*https://www.youtube.com/watch?v=PbYz38zSX2M
+14*title*CONHEÇA A ESTRATÉGIA SUJA DE LACRAR NOS FILHOS DOS SUPER-HERÓIS.
+14*duration2*1567000
+14*author*Linhagem Geek
+14*thumbnail*https://i.ytimg.com/vi/PbYz38zSX2M/default.jpg
+14*date*2025-06-21
+15*file*https://www.youtube.com/watch?v=Yi2Xl1fUYXM
+15*title*O MÁSKARA 2 VEM AÍ!
+15*duration2*900000
+15*author*Linhagem Geek
+15*thumbnail*https://i.ytimg.com/vi_webp/Yi2Xl1fUYXM/default.webp
+15*date*2025-06-24
+16*file*https://www.youtube.com/watch?v=NO5KC3cLhWo&t=44s
+16*title*PODE DAR MUITO ERRADO! JUSTICEIRO EM HOMEM-ARANHA SERÁ NERFADO?
+16*duration2*895000
+16*author*Linhagem Geek
+16*thumbnail*https://i.ytimg.com/vi/NO5KC3cLhWo/default.jpg
+16*date*2025-06-24
+17*file*https://www.youtube.com/watch?v=R7JGpu3HVrw
+17*title*7 COISAS QUE QUERIA SABER ANTES DE CONSTRUIR CASAS PARA VENDA
+17*duration2*896000
+17*author*Engenheiros Do Zero | Rafael Wainer
+17*thumbnail*https://i.ytimg.com/vi/R7JGpu3HVrw/default.jpg
+17*date*2025-06-17
+18*file*https://www.youtube.com/watch?v=-zAAZanV0rM
+18*title*VOCÊS SÃO LOUCOS DE CONSTRUIR PARA VENDER COM FINANCIAMENTO (eu não)
+18*duration2*653000
+18*author*Engenheiros Do Zero | Rafael Wainer
+18*thumbnail*https://i.ytimg.com/vi/-zAAZanV0rM/default.jpg
+18*date*2025-06-24
+19*file*https://www.youtube.com/watch?v=pxcCCGsN0WY
+19*title*SPE   SCP: Essa casa de R$2,5 milhões vai ser construída sem dinheiro meu!
+19*duration2*637000
+19*author*Engenheiros Do Zero | Rafael Wainer
+19*thumbnail*https://i.ytimg.com/vi/pxcCCGsN0WY/default.jpg
+19*date*2025-06-26
+20*file*https://www.youtube.com/watch?v=aYRwTxHuVsM
+20*title*Como Treinar o Seu Dragão é a melhor coisa inútil do ano
+20*duration2*762125
+20*author*Jurandir Gouveia
+20*thumbnail*https://i.ytimg.com/vi_webp/aYRwTxHuVsM/default.webp
+20*date*2025-06-13
+21*file*https://www.youtube.com/watch?v=fiI0kXvvkZA
+21*title*Exumando o filme Extermínio - A Evolução
+21*duration2*884000
+21*author*Jurandir Gouveia
+21*thumbnail*https://i.ytimg.com/vi_webp/fiI0kXvvkZA/default.webp
+21*date*2025-06-22
+22*file*https://www.youtube.com/watch?v=YotItMINtkA&pp=0gcJCd4JAYcqIYzv
+22*title*Segundo episódio de CHESPIRITO: melhorou? PIOROU? Análise SINCERA (com spoiler)!
+22*duration2*2237000
+22*author*Vila do Chaves
+22*thumbnail*https://i.ytimg.com/vi_webp/YotItMINtkA/default.webp
+22*date*2025-06-15
+23*file*https://www.youtube.com/watch?v=4OA8KkVxI2E
+23*title*Criação do CHAPOLIN e CIÚMES: análise do 3º episódio de CHESPIRITO (com spoiler)!
+23*duration2*2081000
+23*author*Vila do Chaves
+23*thumbnail*https://i.ytimg.com/vi/4OA8KkVxI2E/default.jpg
+23*date*2025-06-22
+24*file*https://www.youtube.com/watch?v=qfpg25mTnlQ
+24*title*Onde e como surgiu o Chapolin de VERDADE? TODOS os detalhes (e episódios inéditos)!
+24*duration2*944000
+24*author*Vila do Chaves
+24*thumbnail*https://i.ytimg.com/vi/qfpg25mTnlQ/default.jpg
+24*date*2025-06-25
+25*file*https://www.youtube.com/watch?v=97ur3m0lcfI
+25*title*Por que o PRIMO do SEU MADRUGA aparece em CHAVES?
+25*duration2*1165000
+25*author*Vila do Chaves
+25*thumbnail*https://i.ytimg.com/vi/97ur3m0lcfI/default.jpg
 25*date*2025-06-16
-26*file*https://www.youtube.com/watch?v=FRh6eX4NZWY
-26*title*BOICOTE AO SUPERMAN ESTA ACONTECENDO!
-26*duration2*1485000
-26*author*Linhagem Geek
-26*thumbnail*https://i.ytimg.com/vi_webp/FRh6eX4NZWY/default.webp
+26*file*https://www.youtube.com/watch?v=PfwN0v5TOos
+26*title*O Brasil Precisa de um BUKELE?
+26*duration2*1722000
+26*author*Abraham
+26*thumbnail*https://i.ytimg.com/vi_webp/PfwN0v5TOos/default.webp?v=6852f053
 26*date*2025-06-17
-27*file*https://www.youtube.com/watch?v=2bVhALiA3_g
-27*title*O FLOP PREVISÍVEL DE BALLERINA! ENTENDA.
-27*duration2*892000
-27*author*Linhagem Geek
-27*thumbnail*https://i.ytimg.com/vi/2bVhALiA3_g/default.jpg
-27*date*2025-06-18
-28*file*https://www.youtube.com/watch?v=ntr0BncyCPA
-28*title*TODAS AS MENTIRAS SOBRE X-MEN!
-28*duration2*1499000
-28*author*Linhagem Geek
-28*thumbnail*https://i.ytimg.com/vi/ntr0BncyCPA/default.jpg
-28*date*2025-06-21
-29*file*https://www.youtube.com/watch?v=PbYz38zSX2M
-29*title*CONHEÇA A ESTRATÉGIA SUJA DE LACRAR NOS FILHOS DOS SUPER-HERÓIS.
-29*duration2*1567000
-29*author*Linhagem Geek
-29*thumbnail*https://i.ytimg.com/vi/PbYz38zSX2M/default.jpg
-29*date*2025-06-21
-30*file*https://www.youtube.com/watch?v=Yi2Xl1fUYXM
-30*title*O MÁSKARA 2 VEM AÍ!
-30*duration2*900000
-30*author*Linhagem Geek
-30*thumbnail*https://i.ytimg.com/vi_webp/Yi2Xl1fUYXM/default.webp
-30*date*2025-06-24
-31*file*https://www.youtube.com/watch?v=NO5KC3cLhWo&t=44s
-31*title*PODE DAR MUITO ERRADO! JUSTICEIRO EM HOMEM-ARANHA SERÁ NERFADO?
-31*duration2*895000
-31*author*Linhagem Geek
-31*thumbnail*https://i.ytimg.com/vi/NO5KC3cLhWo/default.jpg
-31*date*2025-06-24
-32*file*https://www.youtube.com/watch?v=R7JGpu3HVrw
-32*title*7 COISAS QUE QUERIA SABER ANTES DE CONSTRUIR CASAS PARA VENDA
-32*duration2*896000
-32*author*Engenheiros Do Zero | Rafael Wainer
-32*thumbnail*https://i.ytimg.com/vi/R7JGpu3HVrw/default.jpg
-32*date*2025-06-17
-33*file*https://www.youtube.com/watch?v=-zAAZanV0rM
-33*title*VOCÊS SÃO LOUCOS DE CONSTRUIR PARA VENDER COM FINANCIAMENTO (eu não)
-33*duration2*653000
-33*author*Engenheiros Do Zero | Rafael Wainer
-33*thumbnail*https://i.ytimg.com/vi/-zAAZanV0rM/default.jpg
-33*date*2025-06-24
-34*file*https://www.youtube.com/watch?v=pxcCCGsN0WY
-34*title*SPE   SCP: Essa casa de R$2,5 milhões vai ser construída sem dinheiro meu!
-34*duration2*637000
-34*author*Engenheiros Do Zero | Rafael Wainer
-34*thumbnail*https://i.ytimg.com/vi/pxcCCGsN0WY/default.jpg
-34*date*2025-06-26
-35*file*https://www.youtube.com/watch?v=aYRwTxHuVsM
-35*title*Como Treinar o Seu Dragão é a melhor coisa inútil do ano
-35*duration2*762125
-35*author*Jurandir Gouveia
-35*thumbnail*https://i.ytimg.com/vi_webp/aYRwTxHuVsM/default.webp
-35*date*2025-06-13
-36*file*https://www.youtube.com/watch?v=fiI0kXvvkZA
-36*title*Exumando o filme Extermínio - A Evolução
-36*duration2*884000
-36*author*Jurandir Gouveia
-36*thumbnail*https://i.ytimg.com/vi_webp/fiI0kXvvkZA/default.webp
-36*date*2025-06-22
-37*file*https://www.youtube.com/watch?v=spqxa8kX1AU&pp=0gcJCdQJAYcqIYzv
-37*title*7 lendas urbanas do cinema (3 são verdadeiras)
-37*duration2*720000
-37*author*Jurandir Gouveia
-37*thumbnail*https://i.ytimg.com/vi_webp/spqxa8kX1AU/default.webp
-37*date*2025-06-19
-38*file*https://www.youtube.com/watch?v=IUCGrUQNAig
-38*title*parece que não entenderam a mensagem de Django Livre
-38*duration2*1139000
-38*author*Jurandir Gouveia
-38*thumbnail*https://i.ytimg.com/vi/IUCGrUQNAig/default.jpg
-38*date*2025-06-24
-39*file*https://www.youtube.com/watch?v=YotItMINtkA&pp=0gcJCd4JAYcqIYzv
-39*title*Segundo episódio de CHESPIRITO: melhorou? PIOROU? Análise SINCERA (com spoiler)!
-39*duration2*2237000
-39*author*Vila do Chaves
-39*thumbnail*https://i.ytimg.com/vi_webp/YotItMINtkA/default.webp
-39*date*2025-06-15
-40*file*https://www.youtube.com/watch?v=4OA8KkVxI2E
-40*title*Criação do CHAPOLIN e CIÚMES: análise do 3º episódio de CHESPIRITO (com spoiler)!
-40*duration2*2081000
-40*author*Vila do Chaves
-40*thumbnail*https://i.ytimg.com/vi/4OA8KkVxI2E/default.jpg
-40*date*2025-06-22
-41*file*https://www.youtube.com/watch?v=qfpg25mTnlQ
-41*title*Onde e como surgiu o Chapolin de VERDADE? TODOS os detalhes (e episódios inéditos)!
-41*duration2*944000
-41*author*Vila do Chaves
-41*thumbnail*https://i.ytimg.com/vi/qfpg25mTnlQ/default.jpg
-41*date*2025-06-25
-42*file*https://www.youtube.com/watch?v=PfwN0v5TOos
-42*title*O Brasil Precisa de um BUKELE?
-42*duration2*1722000
-42*author*Abraham
-42*thumbnail*https://i.ytimg.com/vi_webp/PfwN0v5TOos/default.webp?v=6852f053
-42*date*2025-06-17
-43*file*https://www.youtube.com/watch?v=-Qm2Kg2nMPs
-43*title*Como funciona e qual a origem do Irã?
-43*invalid*1
-43*duration2*858186
-43*author*Plano Piloto
-43*thumbnail*https://i.ytimg.com/vi_webp/-Qm2Kg2nMPs/default.webp
-43*date*2025-06-18
-44*file*https://www.youtube.com/watch?v=97ur3m0lcfI
-44*title*Por que o PRIMO do SEU MADRUGA aparece em CHAVES?
-44*duration2*1165000
-44*author*Vila do Chaves
-44*thumbnail*https://i.ytimg.com/vi/97ur3m0lcfI/default.jpg
-44*date*2025-06-16
-45*file*https://www.youtube.com/watch?v=-_FXDCeiL3g
-45*title*Dá ruim ficar ACENDENDO e APAGANDO a LUZ? Nós testamos!
-45*duration2*995000
-45*author*Manual do Mundo
-45*thumbnail*https://i.ytimg.com/vi/-_FXDCeiL3g/default.jpg
-45*date*2025-06-24
-46*file*https://www.youtube.com/watch?v=HLh-jSyrt34
-46*title*Mais que um sensor de temperatura | Review do Aqara Climate Sensor W100 com Thread e Zigbee
-46*duration2*808000
-46*author*Descomplicando Tech
-46*thumbnail*https://i.ytimg.com/vi/HLh-jSyrt34/default.jpg
-46*date*2025-06-16
-47*file*https://www.youtube.com/watch?v=hzumTRfHiHE
-47*title*Inteligência Artificial Cria Site de Receitas de Café (Manus AI)
-47*duration2*862000
-47*author*Pirados por Café
-47*thumbnail*https://i.ytimg.com/vi_webp/hzumTRfHiHE/default.webp
-47*date*2025-06-17
-48*file*https://www.youtube.com/watch?v=ATfDsdlze3E&t=236s
-48*title*Covariance Explained ← Probability & Statistics
-48*duration2*663000
-48*author*Socratica
-48*thumbnail*https://i.ytimg.com/vi_webp/ATfDsdlze3E/default.webp
-48*date*2025-06-23
+27*file*https://www.youtube.com/watch?v=HLh-jSyrt34
+27*title*Mais que um sensor de temperatura | Review do Aqara Climate Sensor W100 com Thread e Zigbee
+27*invalid*1
+27*duration2*808000
+27*author*Descomplicando Tech
+27*thumbnail*https://i.ytimg.com/vi/HLh-jSyrt34/default.jpg
+27*date*2025-06-16
+28*file*https://www.youtube.com/watch?v=-_FXDCeiL3g
+28*title*Dá ruim ficar ACENDENDO e APAGANDO a LUZ? Nós testamos!
+28*duration2*995000
+28*author*Manual do Mundo
+28*thumbnail*https://i.ytimg.com/vi/-_FXDCeiL3g/default.jpg
+28*date*2025-06-24
+29*file*https://www.youtube.com/watch?v=hzumTRfHiHE
+29*title*Inteligência Artificial Cria Site de Receitas de Café (Manus AI)
+29*duration2*862000
+29*author*Pirados por Café
+29*thumbnail*https://i.ytimg.com/vi_webp/hzumTRfHiHE/default.webp
+29*date*2025-06-17
