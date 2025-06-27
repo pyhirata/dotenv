@@ -1,7 +1,6 @@
 ﻿DAUMPLAYLIST
-playname=https://www.youtube.com/watch?v=6bWNngI6SbY&pp=0gcJCc4JAYcqIYzv
-playtime=482366
-topindex=37
+playname=https://www.youtube.com/watch?v=-Qm2Kg2nMPs
+topindex=35
 saveplaypos=0
 1*file*https://www.youtube.com/watch?v=tp7mc6EXmqs
 1*title*Building Real-Time Streaming ETL with Delta Live Tables on Databricks (End to End Project)
@@ -214,117 +213,82 @@ saveplaypos=0
 35*author*Jurandir Gouveia
 35*thumbnail*https://i.ytimg.com/vi_webp/aYRwTxHuVsM/default.webp
 35*date*2025-06-13
-36*file*https://www.youtube.com/watch?v=spqxa8kX1AU&pp=0gcJCdQJAYcqIYzv
-36*title*7 lendas urbanas do cinema (3 são verdadeiras)
-36*duration2*720000
+36*file*https://www.youtube.com/watch?v=fiI0kXvvkZA
+36*title*Exumando o filme Extermínio - A Evolução
+36*duration2*884000
 36*author*Jurandir Gouveia
-36*thumbnail*https://i.ytimg.com/vi_webp/spqxa8kX1AU/default.webp
-36*date*2025-06-19
-37*file*https://www.youtube.com/watch?v=fiI0kXvvkZA
-37*title*Exumando o filme Extermínio - A Evolução
-37*duration2*884000
+36*thumbnail*https://i.ytimg.com/vi_webp/fiI0kXvvkZA/default.webp
+36*date*2025-06-22
+37*file*https://www.youtube.com/watch?v=spqxa8kX1AU&pp=0gcJCdQJAYcqIYzv
+37*title*7 lendas urbanas do cinema (3 são verdadeiras)
+37*duration2*720000
 37*author*Jurandir Gouveia
-37*thumbnail*https://i.ytimg.com/vi_webp/fiI0kXvvkZA/default.webp
-37*date*2025-06-22
+37*thumbnail*https://i.ytimg.com/vi_webp/spqxa8kX1AU/default.webp
+37*date*2025-06-19
 38*file*https://www.youtube.com/watch?v=IUCGrUQNAig
 38*title*parece que não entenderam a mensagem de Django Livre
 38*duration2*1139000
 38*author*Jurandir Gouveia
 38*thumbnail*https://i.ytimg.com/vi/IUCGrUQNAig/default.jpg
 38*date*2025-06-24
-39*file*https://www.youtube.com/watch?v=kDZ1r5pdmWA
-39*title*é por isso que não esquecemos de Leonidas
-39*duration2*867000
-39*author*Jurandir Gouveia
-39*thumbnail*https://i.ytimg.com/vi_webp/kDZ1r5pdmWA/default.webp
-39*date*2025-06-26
-40*file*https://www.youtube.com/watch?v=YotItMINtkA&pp=0gcJCd4JAYcqIYzv
-40*title*Segundo episódio de CHESPIRITO: melhorou? PIOROU? Análise SINCERA (com spoiler)!
-40*duration2*2237000
+39*file*https://www.youtube.com/watch?v=YotItMINtkA&pp=0gcJCd4JAYcqIYzv
+39*title*Segundo episódio de CHESPIRITO: melhorou? PIOROU? Análise SINCERA (com spoiler)!
+39*duration2*2237000
+39*author*Vila do Chaves
+39*thumbnail*https://i.ytimg.com/vi_webp/YotItMINtkA/default.webp
+39*date*2025-06-15
+40*file*https://www.youtube.com/watch?v=4OA8KkVxI2E
+40*title*Criação do CHAPOLIN e CIÚMES: análise do 3º episódio de CHESPIRITO (com spoiler)!
+40*duration2*2081000
 40*author*Vila do Chaves
-40*thumbnail*https://i.ytimg.com/vi_webp/YotItMINtkA/default.webp
-40*date*2025-06-15
-41*file*https://www.youtube.com/watch?v=4OA8KkVxI2E
-41*title*Criação do CHAPOLIN e CIÚMES: análise do 3º episódio de CHESPIRITO (com spoiler)!
-41*duration2*2081000
+40*thumbnail*https://i.ytimg.com/vi/4OA8KkVxI2E/default.jpg
+40*date*2025-06-22
+41*file*https://www.youtube.com/watch?v=qfpg25mTnlQ
+41*title*Onde e como surgiu o Chapolin de VERDADE? TODOS os detalhes (e episódios inéditos)!
+41*duration2*944000
 41*author*Vila do Chaves
-41*thumbnail*https://i.ytimg.com/vi/4OA8KkVxI2E/default.jpg
-41*date*2025-06-22
+41*thumbnail*https://i.ytimg.com/vi/qfpg25mTnlQ/default.jpg
+41*date*2025-06-25
 42*file*https://www.youtube.com/watch?v=PfwN0v5TOos
 42*title*O Brasil Precisa de um BUKELE?
 42*duration2*1722000
 42*author*Abraham
 42*thumbnail*https://i.ytimg.com/vi_webp/PfwN0v5TOos/default.webp?v=6852f053
 42*date*2025-06-17
-43*file*https://www.youtube.com/watch?v=97ur3m0lcfI
-43*title*Por que o PRIMO do SEU MADRUGA aparece em CHAVES?
-43*duration2*1165000
-43*author*Vila do Chaves
-43*thumbnail*https://i.ytimg.com/vi/97ur3m0lcfI/default.jpg
-43*date*2025-06-16
-44*file*https://www.youtube.com/watch?v=qfpg25mTnlQ
-44*title*Onde e como surgiu o Chapolin de VERDADE? TODOS os detalhes (e episódios inéditos)!
-44*duration2*944000
+43*file*https://www.youtube.com/watch?v=-Qm2Kg2nMPs
+43*title*Como funciona e qual a origem do Irã?
+43*invalid*1
+43*duration2*858186
+43*author*Plano Piloto
+43*thumbnail*https://i.ytimg.com/vi_webp/-Qm2Kg2nMPs/default.webp
+43*date*2025-06-18
+44*file*https://www.youtube.com/watch?v=97ur3m0lcfI
+44*title*Por que o PRIMO do SEU MADRUGA aparece em CHAVES?
+44*duration2*1165000
 44*author*Vila do Chaves
-44*thumbnail*https://i.ytimg.com/vi/qfpg25mTnlQ/default.jpg
-44*date*2025-06-25
-45*file*https://www.youtube.com/watch?v=-Qm2Kg2nMPs
-45*title*Como funciona e qual a origem do Irã?
-45*duration2*858186
-45*author*Plano Piloto
-45*thumbnail*https://i.ytimg.com/vi_webp/-Qm2Kg2nMPs/default.webp
-45*date*2025-06-18
-46*file*https://www.youtube.com/watch?v=-_FXDCeiL3g
-46*title*Dá ruim ficar ACENDENDO e APAGANDO a LUZ? Nós testamos!
-46*duration2*995000
-46*author*Manual do Mundo
-46*thumbnail*https://i.ytimg.com/vi/-_FXDCeiL3g/default.jpg
-46*date*2025-06-24
-47*file*https://www.youtube.com/watch?v=HLh-jSyrt34
-47*title*Mais que um sensor de temperatura | Review do Aqara Climate Sensor W100 com Thread e Zigbee
-47*duration2*808000
-47*author*Descomplicando Tech
-47*thumbnail*https://i.ytimg.com/vi/HLh-jSyrt34/default.jpg
-47*date*2025-06-16
-48*file*https://www.youtube.com/watch?v=hzumTRfHiHE
-48*title*Inteligência Artificial Cria Site de Receitas de Café (Manus AI)
-48*duration2*862000
-48*author*Pirados por Café
-48*thumbnail*https://i.ytimg.com/vi_webp/hzumTRfHiHE/default.webp
-48*date*2025-06-17
-49*file*https://www.youtube.com/watch?v=ATfDsdlze3E&t=236s
-49*title*Covariance Explained ← Probability & Statistics
-49*duration2*663000
-49*author*Socratica
-49*thumbnail*https://i.ytimg.com/vi_webp/ATfDsdlze3E/default.webp
-49*date*2025-06-23
-50*file*https://www.youtube.com/watch?v=6bWNngI6SbY&pp=0gcJCc4JAYcqIYzv
-50*title*Carne Asada: Mexico's Easiest Authentic Flame-Grilled Taco
-50*duration2*638409
-50*author*NOT ANOTHER COOKING SHOW
-50*thumbnail*https://i.ytimg.com/vi_webp/6bWNngI6SbY/default.webp
-50*date*2025-06-25
-51*file*https://www.youtube.com/watch?v=66LTS0ugsL8
-51*title*Red, White & Blueberry Lemonade | Strawberry Blueberry State Fair Lemonade | Food Wishes
-51*duration2*404000
-51*author*Food Wishes
-51*thumbnail*https://i.ytimg.com/vi/66LTS0ugsL8/default.jpg
-51*date*2025-06-17
-52*file*https://www.youtube.com/watch?v=yC1yV46XbXQ
-52*title*Salada Japonesa de Repolho – Simples, Rápida e Irresistível!
-52*duration2*214000
-52*author*Receitas do Kazu
-52*thumbnail*https://i.ytimg.com/vi_webp/yC1yV46XbXQ/default.webp
-52*date*2025-06-25
-53*file*https://www.youtube.com/watch?v=_VpMRkxuJ9g
-53*title*Crispy Grilled Whole Chicken
-53*duration2*589000
-53*author*Helen Rennie
-53*thumbnail*https://i.ytimg.com/vi/_VpMRkxuJ9g/default.jpg
-53*date*2025-06-26
-54*file*https://www.youtube.com/watch?v=CfqVPGlgO-M
-54*title*The Best Chicken Recipe I've Made This Year
-54*duration2*701000
-54*author*Brian Lagerstrom
-54*thumbnail*https://i.ytimg.com/vi_webp/CfqVPGlgO-M/default.webp
-54*date*2025-06-26
+44*thumbnail*https://i.ytimg.com/vi/97ur3m0lcfI/default.jpg
+44*date*2025-06-16
+45*file*https://www.youtube.com/watch?v=-_FXDCeiL3g
+45*title*Dá ruim ficar ACENDENDO e APAGANDO a LUZ? Nós testamos!
+45*duration2*995000
+45*author*Manual do Mundo
+45*thumbnail*https://i.ytimg.com/vi/-_FXDCeiL3g/default.jpg
+45*date*2025-06-24
+46*file*https://www.youtube.com/watch?v=HLh-jSyrt34
+46*title*Mais que um sensor de temperatura | Review do Aqara Climate Sensor W100 com Thread e Zigbee
+46*duration2*808000
+46*author*Descomplicando Tech
+46*thumbnail*https://i.ytimg.com/vi/HLh-jSyrt34/default.jpg
+46*date*2025-06-16
+47*file*https://www.youtube.com/watch?v=hzumTRfHiHE
+47*title*Inteligência Artificial Cria Site de Receitas de Café (Manus AI)
+47*duration2*862000
+47*author*Pirados por Café
+47*thumbnail*https://i.ytimg.com/vi_webp/hzumTRfHiHE/default.webp
+47*date*2025-06-17
+48*file*https://www.youtube.com/watch?v=ATfDsdlze3E&t=236s
+48*title*Covariance Explained ← Probability & Statistics
+48*duration2*663000
+48*author*Socratica
+48*thumbnail*https://i.ytimg.com/vi_webp/ATfDsdlze3E/default.webp
+48*date*2025-06-23
