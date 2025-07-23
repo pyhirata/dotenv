@@ -1,6 +1,6 @@
 ﻿DAUMPLAYLIST
-playname=https://www.youtube.com/watch?v=HLh-jSyrt34
-topindex=5
+playname=https://www.youtube.com/watch?v=aYRwTxHuVsM
+topindex=0
 saveplaypos=0
 1*file*https://www.youtube.com/watch?v=ln-a8Op1WIU&pp=0gcJCd4JAYcqIYzv
 1*title*TUDO de ERRADO com CAPITÃO AMÉRICA: ADMIRÁVEL MUNDO NOVO
@@ -16,12 +16,14 @@ saveplaypos=0
 2*date*2025-06-06
 3*file*https://www.youtube.com/watch?v=jNNaceiERAM
 3*title*KEANU REEVES ODIOU CONSTANTINE 2
+3*invalid*1
 3*duration2*696000
 3*author*Linhagem Geek
 3*thumbnail*https://i.ytimg.com/vi/jNNaceiERAM/default.jpg
 3*date*2025-06-07
 4*file*https://www.youtube.com/watch?v=LIWv_ayr2n8
 4*title*NEFARIOUS 2 É CONFIRMADO!
+4*invalid*1
 4*duration2*681000
 4*author*Linhagem Geek
 4*thumbnail*https://i.ytimg.com/vi_webp/LIWv_ayr2n8/default.webp
@@ -116,64 +118,27 @@ saveplaypos=0
 19*author*Engenheiros Do Zero | Rafael Wainer
 19*thumbnail*https://i.ytimg.com/vi/pxcCCGsN0WY/default.jpg
 19*date*2025-06-26
-20*file*https://www.youtube.com/watch?v=aYRwTxHuVsM
-20*title*Como Treinar o Seu Dragão é a melhor coisa inútil do ano
-20*duration2*762125
-20*author*Jurandir Gouveia
-20*thumbnail*https://i.ytimg.com/vi_webp/aYRwTxHuVsM/default.webp
-20*date*2025-06-13
-21*file*https://www.youtube.com/watch?v=fiI0kXvvkZA
-21*title*Exumando o filme Extermínio - A Evolução
-21*duration2*884000
-21*author*Jurandir Gouveia
-21*thumbnail*https://i.ytimg.com/vi_webp/fiI0kXvvkZA/default.webp
+20*file*https://www.youtube.com/watch?v=YotItMINtkA&pp=0gcJCd4JAYcqIYzv
+20*title*Segundo episódio de CHESPIRITO: melhorou? PIOROU? Análise SINCERA (com spoiler)!
+20*duration2*2237000
+20*author*Vila do Chaves
+20*thumbnail*https://i.ytimg.com/vi_webp/YotItMINtkA/default.webp
+20*date*2025-06-15
+21*file*https://www.youtube.com/watch?v=4OA8KkVxI2E
+21*title*Criação do CHAPOLIN e CIÚMES: análise do 3º episódio de CHESPIRITO (com spoiler)!
+21*duration2*2081000
+21*author*Vila do Chaves
+21*thumbnail*https://i.ytimg.com/vi/4OA8KkVxI2E/default.jpg
 21*date*2025-06-22
-22*file*https://www.youtube.com/watch?v=YotItMINtkA&pp=0gcJCd4JAYcqIYzv
-22*title*Segundo episódio de CHESPIRITO: melhorou? PIOROU? Análise SINCERA (com spoiler)!
-22*duration2*2237000
+22*file*https://www.youtube.com/watch?v=qfpg25mTnlQ
+22*title*Onde e como surgiu o Chapolin de VERDADE? TODOS os detalhes (e episódios inéditos)!
+22*duration2*944000
 22*author*Vila do Chaves
-22*thumbnail*https://i.ytimg.com/vi_webp/YotItMINtkA/default.webp
-22*date*2025-06-15
-23*file*https://www.youtube.com/watch?v=4OA8KkVxI2E
-23*title*Criação do CHAPOLIN e CIÚMES: análise do 3º episódio de CHESPIRITO (com spoiler)!
-23*duration2*2081000
+22*thumbnail*https://i.ytimg.com/vi/qfpg25mTnlQ/default.jpg
+22*date*2025-06-25
+23*file*https://www.youtube.com/watch?v=97ur3m0lcfI
+23*title*Por que o PRIMO do SEU MADRUGA aparece em CHAVES?
+23*duration2*1165000
 23*author*Vila do Chaves
-23*thumbnail*https://i.ytimg.com/vi/4OA8KkVxI2E/default.jpg
-23*date*2025-06-22
-24*file*https://www.youtube.com/watch?v=qfpg25mTnlQ
-24*title*Onde e como surgiu o Chapolin de VERDADE? TODOS os detalhes (e episódios inéditos)!
-24*duration2*944000
-24*author*Vila do Chaves
-24*thumbnail*https://i.ytimg.com/vi/qfpg25mTnlQ/default.jpg
-24*date*2025-06-25
-25*file*https://www.youtube.com/watch?v=97ur3m0lcfI
-25*title*Por que o PRIMO do SEU MADRUGA aparece em CHAVES?
-25*duration2*1165000
-25*author*Vila do Chaves
-25*thumbnail*https://i.ytimg.com/vi/97ur3m0lcfI/default.jpg
-25*date*2025-06-16
-26*file*https://www.youtube.com/watch?v=PfwN0v5TOos
-26*title*O Brasil Precisa de um BUKELE?
-26*duration2*1722000
-26*author*Abraham
-26*thumbnail*https://i.ytimg.com/vi_webp/PfwN0v5TOos/default.webp?v=6852f053
-26*date*2025-06-17
-27*file*https://www.youtube.com/watch?v=HLh-jSyrt34
-27*title*Mais que um sensor de temperatura | Review do Aqara Climate Sensor W100 com Thread e Zigbee
-27*invalid*1
-27*duration2*808000
-27*author*Descomplicando Tech
-27*thumbnail*https://i.ytimg.com/vi/HLh-jSyrt34/default.jpg
-27*date*2025-06-16
-28*file*https://www.youtube.com/watch?v=-_FXDCeiL3g
-28*title*Dá ruim ficar ACENDENDO e APAGANDO a LUZ? Nós testamos!
-28*duration2*995000
-28*author*Manual do Mundo
-28*thumbnail*https://i.ytimg.com/vi/-_FXDCeiL3g/default.jpg
-28*date*2025-06-24
-29*file*https://www.youtube.com/watch?v=hzumTRfHiHE
-29*title*Inteligência Artificial Cria Site de Receitas de Café (Manus AI)
-29*duration2*862000
-29*author*Pirados por Café
-29*thumbnail*https://i.ytimg.com/vi_webp/hzumTRfHiHE/default.webp
-29*date*2025-06-17
+23*thumbnail*https://i.ytimg.com/vi/97ur3m0lcfI/default.jpg
+23*date*2025-06-16
